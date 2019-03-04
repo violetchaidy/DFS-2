@@ -1,0 +1,20 @@
+.circle {
+  position: absolute;
+  left: -50px;
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  border-radius: 50%;
+}
+
+p {
+  position: absolute;
+  left: 150px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+  text-align: left;
+  column-count: 2;
+  orphans: 3;
+  text-indent: -2em;
+
+}
